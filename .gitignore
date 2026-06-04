@@ -1,0 +1,13 @@
+app
+app.exe
+*.out
+*.exe
+*.o
+*.obj
+*.class
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
